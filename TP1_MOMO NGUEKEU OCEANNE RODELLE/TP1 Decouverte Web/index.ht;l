@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma premiere page web</title>
+</head>
+<body>
+    <h1>Bienvenue dans mo premier TP de programmation web</h1>
+    <p>Ceci est ma premiere page web crée avec HTML.</p>
+</body>
+</html>
